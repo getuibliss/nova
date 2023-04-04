@@ -14,6 +14,6 @@ export const config = {
     tiktok: "",
     discord: "",
   },
-  footerText: "Made with ❤️ by Dan Staub",
+  footerText: "Made with ❤️ by UIBliss",
   description: "Dan Staub's personal website",
 };

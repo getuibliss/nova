@@ -1,3 +1,5 @@
+![nova theme screenshot](./public/screenshot.png)
+
 # Next.js Theme Nova
 
 This theme is built using Next.js and TailwindCSS. All the social media information is stored in `/constants/config.ts`. You will need to add the social media links in this file and it will automatically show on the website.
